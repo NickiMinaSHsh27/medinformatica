@@ -1,0 +1,31 @@
+body{
+    background-color:rgba(244, 247, 169, 0.212);
+    color:rgba(0, 0, 0, 0.884);
+    margin: 6px;
+    padding: 3px;
+}
+header,
+footer {
+    text-align: right;
+    background-color: gainsboro;
+}
+h2, h3, h4 {
+    color: brown;
+    text-decoration-line: underline;
+}
+p {
+text-align: justify;
+text-indent: 8ch;
+}
+p::first-line{
+    color: black;
+   }
+    p::first-letter{
+        font-size: 120%;
+        color: rgba(192, 47, 144, 0.596);
+        text-decoration-line: underline;
+    }
+            
+            section:hover{
+                background-color: antiquewhite;
+            }

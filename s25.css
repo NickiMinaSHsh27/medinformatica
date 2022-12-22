@@ -1,0 +1,50 @@
+body{
+    background-color:rgba(0, 0, 0, 0);
+    color:rgb(0, 0, 0);
+    margin: 5px;
+    padding: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+
+footer {
+    text-align: right;
+    background-color: rgb(0, 0, 0);
+
+}
+h1 {
+    background: rgb(0, 0, 0);
+    color: white;
+    text-decoration-line: underline;
+    font-size: 56px;
+}
+.box_1{
+height: 50%;
+width: 50%;
+margin: 10%;
+padding: 10%;
+background: rgb(90, 84, 127);
+}
+
+}
+h2, h3, h4 {
+    color: rgb(0, 0, 0);
+ 
+}
+p {
+text-align: justify;
+text-indent: 8ch;
+}
+
+            .container {
+                position: relative;
+                text-align: center;
+             
+            }
+            .bottom-left {
+                position: absolute;
+                bottom: 8px;
+                left: 16px;
+            }
+           

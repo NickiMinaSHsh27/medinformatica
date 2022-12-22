@@ -1,0 +1,11 @@
+body{
+    background-color:rgba(244, 247, 169, 0.212);
+    color:rgba(0, 0, 0, 0.884);
+    margin: 5px;
+    padding: 2px;
+}
+header,
+footer {
+    text-align: center;
+    background-color: gainsboro;
+}
